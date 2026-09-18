@@ -59,7 +59,7 @@ export const carindaleStreets = [
   "Caister Court",
   "Caldicot Place",
   "Cardoness Street",
-  "Carindale Street",
+  "Gold Coast Highway",
   "Carlton Court",
   "Carnegie Court",
   "Carnoustie Place",
