@@ -1,8 +1,8 @@
-# CCTV Carindale — Project Migration & Development Summary
+# CCTV Gold Coast — Project Summary
 
-**Project:** CCTV Installation Landing Page Migration (Monolithic HTML to Modular Astro)  
-**Location:** `e:\cctv-carindale-main`  
-**Target Repository:** `https://github.com/rob82aus/cctv-carindale.git`  
+**Project:** CCTV Installation Landing Page (Astro Modular Platform)  
+**Location:** `computers-gold-coast`  
+**Target Repository:** `https://github.com/mamunaio/computers-gold-coast.git`  
 **Current Git Commit:** `96f485d` (`main` branch)  
 **Status:** Build Passed (0 Errors), Dev Server Active on Port `4321`
 
